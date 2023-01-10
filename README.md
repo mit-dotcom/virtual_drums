@@ -8,7 +8,7 @@ This project use Open CV to create a virtual drum set. It uses color detection i
 
 Do give a star if you like this project!
 
-![Preview](preview.gif)
+
 
 ## Installation
 
