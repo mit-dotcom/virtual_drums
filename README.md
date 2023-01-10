@@ -37,5 +37,3 @@ I have written an [article](https://medium.com/@navendupottekkat/virtual-drum-se
 
 You are free to use this code for any purpose. If you have built anything interesting, contribute it back to this project. You could add more drums and improve the overall performance.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
